@@ -1,0 +1,2 @@
+# lascale
+Linode AutoScaling
